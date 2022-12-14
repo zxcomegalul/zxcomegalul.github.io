@@ -154,7 +154,7 @@ btn11.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 44 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 44 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "11";
 		tg.MainButton.show();
 	}
@@ -164,7 +164,7 @@ btn12.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 55 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 55 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "12";
 		tg.MainButton.show();
 	}
@@ -174,7 +174,7 @@ btn13.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 43 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 43 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "13";
 		tg.MainButton.show();
 	}
@@ -184,7 +184,7 @@ btn14.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 79 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 79 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "14";
 		tg.MainButton.show();
 	}
@@ -194,7 +194,7 @@ btn15.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 28 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 28 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "15";
 		tg.MainButton.show();
 	}
@@ -204,7 +204,7 @@ btn16.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 45 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 45 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "16";
 		tg.MainButton.show();
 	}
@@ -214,7 +214,7 @@ btn17.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 22 499. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 22 499. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "17";
 		tg.MainButton.show();
 	}
@@ -224,7 +224,7 @@ btn18.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 22 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 22 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "18";
 		tg.MainButton.show();
 	}
@@ -234,7 +234,7 @@ btn19.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 5 199. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 5 199. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "19";
 		tg.MainButton.show();
 	}
@@ -244,7 +244,7 @@ btn20.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 1 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 1 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "20";
 		tg.MainButton.show();
 	}
@@ -254,7 +254,7 @@ btn21.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 4 299. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 4 299. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "21";
 		tg.MainButton.show();
 	}
@@ -264,7 +264,7 @@ btn22.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 7 499. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 7 499. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "22";
 		tg.MainButton.show();
 	}
@@ -274,7 +274,7 @@ btn23.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 44 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 44 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "23";
 		tg.MainButton.show();
 	}
@@ -284,7 +284,7 @@ btn24.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 64 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 64 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "24";
 		tg.MainButton.show();
 	}
@@ -294,7 +294,7 @@ btn25.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 40 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 40 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "25";
 		tg.MainButton.show();
 	}
@@ -304,7 +304,7 @@ btn26.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 24 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 24 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "26";
 		tg.MainButton.show();
 	}
@@ -314,7 +314,7 @@ btn27.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 40 499. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 40 499. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "27";
 		tg.MainButton.show();
 	}
@@ -324,7 +324,7 @@ btn28.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 37 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 37 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "28";
 		tg.MainButton.show();
 	}
@@ -334,7 +334,7 @@ btn29.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 27 499. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 27 499. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "29";
 		tg.MainButton.show();
 	}
@@ -344,7 +344,7 @@ btn30.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 62 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 62 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "30";
 		tg.MainButton.show();
 	}
@@ -354,7 +354,7 @@ btn31.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 18 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 18 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "31";
 		tg.MainButton.show();
 	}
@@ -364,7 +364,7 @@ btn32.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 38 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 38 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "32";
 		tg.MainButton.show();
 	}
@@ -374,7 +374,7 @@ btn33.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 26 499. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 26 499. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "33";
 		tg.MainButton.show();
 	}
@@ -384,7 +384,7 @@ btn34.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 30 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 30 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "34";
 		tg.MainButton.show();
 	}
@@ -394,7 +394,7 @@ btn35.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 5 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 5 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "35";
 		tg.MainButton.show();
 	}
@@ -404,7 +404,7 @@ btn36.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 5 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 5 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "36";
 		tg.MainButton.show();
 	}
@@ -414,7 +414,7 @@ btn37.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 5 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 5 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "37";
 		tg.MainButton.show();
 	}
@@ -424,7 +424,7 @@ btn38.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 6 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 6 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "38";
 		tg.MainButton.show();
 	}
@@ -434,7 +434,7 @@ btn39.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 4 699. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 4 699. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "39";
 		tg.MainButton.show();
 	}
@@ -444,7 +444,7 @@ btn40.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 9 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 9 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "40";
 		tg.MainButton.show();
 	}
@@ -454,7 +454,7 @@ btn41.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 4 599. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 4 599. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "41";
 		tg.MainButton.show();
 	}
@@ -464,7 +464,7 @@ btn42.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 2 699. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 2 699. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "42";
 		tg.MainButton.show();
 	}
@@ -474,7 +474,7 @@ btn43.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 4 799. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 4 799. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "43";
 		tg.MainButton.show();
 	}
@@ -484,7 +484,7 @@ btn44.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 4 199. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 4 199. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "44";
 		tg.MainButton.show();
 	}
@@ -494,7 +494,7 @@ btn45.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 4 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 4 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "45";
 		tg.MainButton.show();
 	}
@@ -504,7 +504,7 @@ btn46.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 6 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 6 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "46";
 		tg.MainButton.show();
 	}
@@ -514,7 +514,7 @@ btn47.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 37 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 37 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "47";
 		tg.MainButton.show();
 	}
@@ -524,7 +524,7 @@ btn48.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 99 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 99 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "48";
 		tg.MainButton.show();
 	}
@@ -534,7 +534,7 @@ btn49.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 33 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 33 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "49";
 		tg.MainButton.show();
 	}
@@ -544,7 +544,7 @@ btn50.addEventListener("click", function () {
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Цена: 167 999. Вывести полную информацию о товаре");
+		tg.MainButton.setText("Р¦РµРЅР°: 167 999. Р’С‹РІРµСЃС‚Рё РїРѕР»РЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРІР°СЂРµ");
 		item = "50";
 		tg.MainButton.show();
 	}
