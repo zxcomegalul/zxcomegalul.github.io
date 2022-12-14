@@ -149,16 +149,407 @@ btnMain11.addEventListener("click", function () {
 	document.getElementById("pgCofee").style.display = "none";
 });
 
+btn11.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 44 999. Вывести полную информацию о товаре");
+		item = "11";
+		tg.MainButton.show();
+	}
+});
+btn12.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 55 999. Вывести полную информацию о товаре");
+		item = "12";
+		tg.MainButton.show();
+	}
+});
+btn13.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 43 999. Вывести полную информацию о товаре");
+		item = "13";
+		tg.MainButton.show();
+	}
+});
+btn14.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 79 999. Вывести полную информацию о товаре");
+		item = "14";
+		tg.MainButton.show();
+	}
+});
+btn15.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 28 999. Вывести полную информацию о товаре");
+		item = "15";
+		tg.MainButton.show();
+	}
+});
+btn16.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 45 999. Вывести полную информацию о товаре");
+		item = "16";
+		tg.MainButton.show();
+	}
+});
+btn17.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 22 499. Вывести полную информацию о товаре");
+		item = "17";
+		tg.MainButton.show();
+	}
+});
+btn18.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 22 999. Вывести полную информацию о товаре");
+		item = "18";
+		tg.MainButton.show();
+	}
+});
+btn19.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 5 199. Вывести полную информацию о товаре");
+		item = "19";
+		tg.MainButton.show();
+	}
+});
+btn20.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 1 999. Вывести полную информацию о товаре");
+		item = "20";
+		tg.MainButton.show();
+	}
+});
+btn21.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 4 299. Вывести полную информацию о товаре");
+		item = "21";
+		tg.MainButton.show();
+	}
+});
+btn22.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 7 499. Вывести полную информацию о товаре");
+		item = "22";
+		tg.MainButton.show();
+	}
+});
+btn23.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 44 999. Вывести полную информацию о товаре");
+		item = "23";
+		tg.MainButton.show();
+	}
+});
+btn24.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 64 999. Вывести полную информацию о товаре");
+		item = "24";
+		tg.MainButton.show();
+	}
+});
+btn25.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 40 999. Вывести полную информацию о товаре");
+		item = "25";
+		tg.MainButton.show();
+	}
+});
+btn26.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 24 999. Вывести полную информацию о товаре");
+		item = "26";
+		tg.MainButton.show();
+	}
+});
+btn27.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 40 499. Вывести полную информацию о товаре");
+		item = "27";
+		tg.MainButton.show();
+	}
+});
+btn28.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 37 999. Вывести полную информацию о товаре");
+		item = "28";
+		tg.MainButton.show();
+	}
+});
+btn29.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 27 499. Вывести полную информацию о товаре");
+		item = "29";
+		tg.MainButton.show();
+	}
+});
+btn30.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 62 999. Вывести полную информацию о товаре");
+		item = "30";
+		tg.MainButton.show();
+	}
+});
+btn31.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 18 999. Вывести полную информацию о товаре");
+		item = "31";
+		tg.MainButton.show();
+	}
+});
+btn32.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 38 999. Вывести полную информацию о товаре");
+		item = "32";
+		tg.MainButton.show();
+	}
+});
+btn33.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 26 499. Вывести полную информацию о товаре");
+		item = "33";
+		tg.MainButton.show();
+	}
+});
+btn34.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 30 999. Вывести полную информацию о товаре");
+		item = "34";
+		tg.MainButton.show();
+	}
+});
+btn35.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 5 999. Вывести полную информацию о товаре");
+		item = "35";
+		tg.MainButton.show();
+	}
+});
+btn36.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 5 999. Вывести полную информацию о товаре");
+		item = "36";
+		tg.MainButton.show();
+	}
+});
+btn37.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 5 999. Вывести полную информацию о товаре");
+		item = "37";
+		tg.MainButton.show();
+	}
+});
+btn38.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 6 999. Вывести полную информацию о товаре");
+		item = "38";
+		tg.MainButton.show();
+	}
+});
+btn39.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 4 699. Вывести полную информацию о товаре");
+		item = "39";
+		tg.MainButton.show();
+	}
+});
+btn40.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 9 999. Вывести полную информацию о товаре");
+		item = "40";
+		tg.MainButton.show();
+	}
+});
+btn41.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 4 599. Вывести полную информацию о товаре");
+		item = "41";
+		tg.MainButton.show();
+	}
+});
+btn42.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 2 699. Вывести полную информацию о товаре");
+		item = "42";
+		tg.MainButton.show();
+	}
+});
+btn43.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 4 799. Вывести полную информацию о товаре");
+		item = "43";
+		tg.MainButton.show();
+	}
+});
+btn44.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 4 199. Вывести полную информацию о товаре");
+		item = "44";
+		tg.MainButton.show();
+	}
+});
+btn45.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 4 999. Вывести полную информацию о товаре");
+		item = "45";
+		tg.MainButton.show();
+	}
+});
+btn46.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 6 999. Вывести полную информацию о товаре");
+		item = "46";
+		tg.MainButton.show();
+	}
+});
+btn47.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 37 999. Вывести полную информацию о товаре");
+		item = "47";
+		tg.MainButton.show();
+	}
+});
+btn48.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 99 999. Вывести полную информацию о товаре");
+		item = "48";
+		tg.MainButton.show();
+	}
+});
+btn49.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 33 999. Вывести полную информацию о товаре");
+		item = "49";
+		tg.MainButton.show();
+	}
+});
+btn50.addEventListener("click", function () {
+	if (tg.MainButton.isVisible) {
+		tg.MainButton.hide();
+	}
+	else {
+		tg.MainButton.setText("Цена: 167 999. Вывести полную информацию о товаре");
+		item = "50";
+		tg.MainButton.show();
+	}
+});
+
 Telegram.WebApp.onEvent("mainButtonClicked", function () {
 	tg.sendData(item);
 });
-
-let usercard = document.getElementById("usercard");
-
-let p = document.createElement("p");
-
-p.innerText = `${tg.initDataUnsafe.user.first_name}
-${tg.initDataUnsafe.user.last_name}`;
-
-
-usercard.appendChild(p);
